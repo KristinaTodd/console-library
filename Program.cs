@@ -1,4 +1,5 @@
 ﻿using System;
+using console_library.Model;
 
 namespace console_library
 {
