@@ -1,0 +1,13 @@
+C:\source\codeworks\console-library\bin\Debug\netcoreapp3.1\console-library.exe
+C:\source\codeworks\console-library\bin\Debug\netcoreapp3.1\console-library.deps.json
+C:\source\codeworks\console-library\bin\Debug\netcoreapp3.1\console-library.runtimeconfig.json
+C:\source\codeworks\console-library\bin\Debug\netcoreapp3.1\console-library.runtimeconfig.dev.json
+C:\source\codeworks\console-library\bin\Debug\netcoreapp3.1\console-library.dll
+C:\source\codeworks\console-library\bin\Debug\netcoreapp3.1\console-library.pdb
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.csprojAssemblyReference.cache
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.csproj.CoreCompileInputs.cache
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.AssemblyInfoInputs.cache
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.AssemblyInfo.cs
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.dll
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.pdb
+C:\source\codeworks\console-library\obj\Debug\netcoreapp3.1\console-library.genruntimeconfig.cache
