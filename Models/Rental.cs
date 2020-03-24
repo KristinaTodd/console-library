@@ -3,7 +3,7 @@ using console_library.Interfaces;
 
 namespace console_library.Models
 {
-  public class Book : ICheckoutable
+  class Rental : ICheckoutable
   {
     public string Title { get; set; }
     public string Author { get; set; }
@@ -11,7 +11,7 @@ namespace console_library.Models
     public AgeGroup AgeGroup { get; private set; }
     public string DeweyDec { get; set; }
 
-    public Book(string title, string author, AgeGroup ageGroup, string deweyDec)
+    public Rental(string title, string author, AgeGroup ageGroup, string deweyDec)
     {
       Title = title;
       Author = author;
@@ -21,5 +21,11 @@ namespace console_library.Models
     }
 
   }
-
+  enum AgeGroup
+  {
+    Baby,
+    Child,
+    YoungAdult,
+    Adult
+  }
 }

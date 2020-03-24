@@ -1,5 +1,5 @@
 ﻿using System;
-using console_library.Model;
+using console_library.Models;
 
 namespace console_library
 {
@@ -8,6 +8,8 @@ namespace console_library
     static void Main(string[] args)
     {
       Console.WriteLine("Welcome to the Library!");
+
+      Book EJ = new Book("Eloquent Javascript", "Adult")
     }
   }
 }
